@@ -1,0 +1,7 @@
+* The Sermons of John Donne
+
+Mirrors [[http://lib.byu.edu/digital/donne/][BYU's collection]] (great archive, unwieldy interface).
+
+** Source
+
+John Donne, /Sermons/, ed. George R. Potter and Evelyn M. Simpson, 10 vols. (Berkeley, CA: University of California Press, 1953–1962).
